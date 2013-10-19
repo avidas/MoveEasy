@@ -3,6 +3,7 @@ package com.avidas.moveeasy;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+import com.stripe.*;
 
 public class Home extends Activity {
 
